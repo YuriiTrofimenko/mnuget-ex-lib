@@ -4,6 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>ExperimentalLib</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Yurii Trofimenko</Authors>
+    <Company>Mirtek</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
